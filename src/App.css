@@ -1,3 +1,9 @@
 .App {
+  color: cornsilk;
+  font-family: cursive;
   text-align: center;
+}
+
+body {
+  background-image: url('./images/background.png');
 }
