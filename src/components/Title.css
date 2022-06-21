@@ -1,0 +1,10 @@
+.title {
+  align-items: center;
+  border: 2px solid gainsboro;
+  border-radius: 17px;
+  display: flex;
+  font-size: 50px;
+  height: 99px;
+  justify-content: center;
+  width: 1140px;
+}
