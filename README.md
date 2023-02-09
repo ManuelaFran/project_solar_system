@@ -1,14 +1,22 @@
 # :sun_with_face: Solar System
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
 ![SolarSystem1](https://user-images.githubusercontent.com/95245210/215369458-087ff345-8d2b-41f3-bff5-eba53a87a5d5.png)
+
+## O que foi desenvolvido
+Neste projeto foi desenvolvido uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simula uma visualização do Sistema Solar, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
+
+Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+* Visualizar todos os planetas do sistema solar renderizados na tela;
+* Visualizar todas as cartas com informações sobre missões espaciais;
+
+## Habilidades Praticadas no Projeto
+  - Utilizar JSX no React;
+  - Utilizar corretamente o método `render()` para renderizar seus componentes;
+  - Utilizar `import` para trazer componentes em diferentes arquivos;
+  - Criar componentes de classe em React;
+  - Criar múltiplos componentes a partir de um array;
+  - Fazer uso de `props` corretamente;
+  - Fazer uso de `PropTypes` para validar as `props de um componente`.
+
+## Linguagens, Ferramentas e Bibliotecas Utilizadas
+[React](https://pt-br.reactjs.org/)<br>
